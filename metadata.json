@@ -1,0 +1,6 @@
+{
+  "name": "Good Luck Tyres",
+  "description": "Dynamic commercial tyre trading & fleet distribution portal with real-time warehouse inventory, quotation desk, and full CMS admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
